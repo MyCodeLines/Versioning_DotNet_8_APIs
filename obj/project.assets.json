@@ -616,11 +616,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Personal\\VS projects\\Versioning\\Versioning.csproj",
+      "projectUniqueName": "D:\\Work\\Personal\\GitRepos\\Versioning_DotNet_8_APIs\\Versioning.csproj",
       "projectName": "Versioning",
-      "projectPath": "D:\\Work\\Personal\\VS projects\\Versioning\\Versioning.csproj",
+      "projectPath": "D:\\Work\\Personal\\GitRepos\\Versioning_DotNet_8_APIs\\Versioning.csproj",
       "packagesPath": "C:\\Users\\mohsi\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Personal\\VS projects\\Versioning\\obj\\",
+      "outputPath": "D:\\Work\\Personal\\GitRepos\\Versioning_DotNet_8_APIs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
